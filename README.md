@@ -1,6 +1,6 @@
 # Headmaster
 # Headmaster alpha v1 (headmaster_a1)
-# credit to: SilntDlrium
+# credit to: SilentDelirium
 # this is a python 3.11 script used to access and manipulate the site for the online school, "Michigan Connections Academy"
 #
 # SET UP THE 'my_info.py' WITH YOUR INFORMATION, OR THIS WILL FAIL IMMEDIATELY
