@@ -3,7 +3,7 @@
 # credit to: SilentDelirium
 # this is a python 3.11 script used to access and manipulate the site for the online school, "Michigan Connections Academy"
 #
-# SET UP THE 'my_info.py' WITH YOUR INFORMATION, OR THIS WILL FAIL IMMEDIATELY
+# SET UP THE 'EXAMPLEmy_info.py' WITH YOUR INFORMATION, AND RENAME IT TO 'my_info.py' OR THIS WILL FAIL IMMEDIATELY
 #
 # It will (hopefully) be able to:
 # - open a Chrome browser (headless or non)
